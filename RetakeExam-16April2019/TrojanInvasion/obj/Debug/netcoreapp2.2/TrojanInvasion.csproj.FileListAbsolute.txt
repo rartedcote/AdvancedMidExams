@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.deps.json
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.runtimeconfig.json
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.dll
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.pdb
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.AssemblyInfo.cs
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.dll
+C:\Users\vasko\source\repos\RetakeExam-16April2019\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.pdb
