@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb

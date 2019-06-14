@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.deps.json
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.runtimeconfig.json
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.dll
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.pdb
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.AssemblyInfo.cs
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.dll
+C:\Users\vasko\source\repos\AdvancedExam-24February2019\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.pdb
